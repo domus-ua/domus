@@ -13,6 +13,8 @@ The main idea behind the project is to move the home rental market targeted at y
 
 ## Project Bookmarks:
 - Project Backlog: https://gitlab.com/groups/tqs-domus/-/boards
+- Deployed Services:
+    * Landing Page: https://tqs-domus.gitlab.io/
 - Related Repositories:
     * Landing Page: https://gitlab.com/tqs-domus/tqs-domus.gitlab.io
     * Rest API: https://gitlab.com/tqs-domus/rest-api
