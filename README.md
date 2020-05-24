@@ -14,15 +14,16 @@ The main idea behind the project is to move the home rental market targeted at y
 ## Project Bookmarks:
 - Project Backlog: https://gitlab.com/groups/tqs-domus/-/boards
 - Deployed Services:
-    * Landing Page: https://tqs-domus.gitlab.io/
+    * Landing Page: https://tqs-domus.gitlab.io
+    * REST API: http://192.168.160.60:8080
+    * Web App: http://192.168.160.60:3000
 - Related Repositories:
     * Landing Page: https://gitlab.com/tqs-domus/tqs-domus.gitlab.io
     * Rest API: https://gitlab.com/tqs-domus/rest-api
     * Web Application: https://gitlab.com/tqs-domus/web-application
     * Mobile Application: https://gitlab.com/tqs-domus/mobile-application
-- API Documentation: ??
-- Static Analysis: ??
-- Deployment Monitorization: ??
-- CI/CD Environment: ??
-- DB URL: ??
+- API Documentation: http://192.168.160.60:8080/api/swagger-ui.html
+- Static Analysis: http://192.168.160.60:9000
+- Deployment Monitorization: http://192.168.160.60/nagiosxi
+- CI/CD Environment: https://gitlab.com/groups/tqs-domus
 - Slack channel: https://leiv20.slack.com/archives/G0132MK7491
