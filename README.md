@@ -27,3 +27,5 @@ The main idea behind the project is to move the home rental market targeted at y
 - Deployment Monitorization: http://192.168.160.60/nagiosxi
 - CI/CD Environment: https://gitlab.com/groups/tqs-domus
 - Slack channel: https://leiv20.slack.com/archives/G0132MK7491
+- Domus Web App Demo: https://youtu.be/_DCs0jUOJIk
+- Domus Mobile App Demo: https://youtu.be/c0aq8ftAOFo
