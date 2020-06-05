@@ -17,6 +17,7 @@ The main idea behind the project is to move the home rental market targeted at y
     * Landing Page: https://tqs-domus.gitlab.io
     * REST API: http://192.168.160.60:8080
     * Web App: http://192.168.160.60:3000
+    * Mobile App (APK): https://gitlab.com/tqs-domus/mobile-application/-/blob/master/Domus.apk
 - Related Repositories:
     * Landing Page: https://gitlab.com/tqs-domus/tqs-domus.gitlab.io
     * Rest API: https://gitlab.com/tqs-domus/rest-api
